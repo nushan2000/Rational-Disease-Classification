@@ -22,7 +22,7 @@ The deep learning model is built using TensorFlow and Keras. It consists of mult
 https://github.com/nushan2000/Rational-Disease-Classification.git
 
 2. Install the required dependencies
-3. 3. Download the dataset and update the file paths in the code accordingly.
+3. Download the dataset and update the file paths in the code accordingly.
 4. Train the model using the provided scripts:
 5. Evaluate the model on the test set:
 
